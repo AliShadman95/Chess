@@ -1,0 +1,14 @@
+.boardRow {
+  width: 500px;
+  height: 62.5px;
+}
+
+.whitecells {
+  background-color: white;
+  border: 2px solid black;
+}
+
+.blackcells {
+  background-color: rgb(114, 42, 20);
+  border: 2px solid black;
+}
